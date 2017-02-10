@@ -46,6 +46,6 @@ class PalettesController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def palette_params
-      params.require(:palette).permit(:color_name, :img)
+      params.require(:palette).permit(:color_name, :img, :user_id)
     end
 end
