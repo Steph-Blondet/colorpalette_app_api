@@ -1,24 +1,22 @@
-# README
+# COLOR PALETTE APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Full Stack App built on Rails where the user can create their username, create colors, edit the colors and delete them.
 
-Things you may want to cover:
+[Link to the live site] (https://color-palettes-frontend.herokuapp.com) / 
+[Link to the front-end repo] (https://github.com/Steph-Blondet/colorpalette_app_frontend)
 
-* Ruby version
+## Technologies Used
+- Angular JS
+- Postgress
+- Ruby
+- Ruby on Rails
+- Node.js and Express
+- CORS configuration
+- HTML, CSS and JavaScript
+- Bootstrap
 
-* System dependencies
+## Desktop View
+![Color Palette App view](process/color-palette-app.png "Color Palette App view")
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+------------------------------------------
+*This full stack web application was the fourth project of the Full Stack Web Development Immersive Program at General Assembly. *Designed and Developed by Stephanie Blondet, February 2017.
